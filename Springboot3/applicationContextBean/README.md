@@ -1,0 +1,1 @@
+To get list of beans: http://localhost:8080/actuator/beans
